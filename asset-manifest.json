@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Foreigner_Map/static/css/main.acfb2615.css",
+    "main.js": "/Foreigner_Map/static/js/main.58052c49.js",
+    "static/js/453.050445fc.chunk.js": "/Foreigner_Map/static/js/453.050445fc.chunk.js",
+    "index.html": "/Foreigner_Map/index.html",
+    "main.acfb2615.css.map": "/Foreigner_Map/static/css/main.acfb2615.css.map",
+    "main.58052c49.js.map": "/Foreigner_Map/static/js/main.58052c49.js.map",
+    "453.050445fc.chunk.js.map": "/Foreigner_Map/static/js/453.050445fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acfb2615.css",
+    "static/js/main.58052c49.js"
+  ]
+}
